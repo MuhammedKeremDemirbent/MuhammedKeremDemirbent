@@ -5,9 +5,10 @@
 
 - 🌱 I’m currently learning **C# Python .NET**
 
+- 📫 How to reach me **keremdmrbnt03@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kdemirbent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kdemirbent" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammedkeremdemirbent" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammedkeremdemirbent" height="30" width="40" /></a>
 <a href="https://kaggle.com/muhammedkerem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="muhammedkerem" height="30" width="40" /></a>
 <a href="https://instagram.com/kerem_demi̇rbentt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kerem_demi̇rbentt" height="30" width="40" /></a>
