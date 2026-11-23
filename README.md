@@ -11,12 +11,6 @@ I build end-to-end data pipelines, analytical models, and decision-support syste
 
 ---
 
-## 🚀 Featured Projects:
-* **[Istanbul City Pulse](https://github.com/MuhammedKeremDemirbent/istanbul-city-pulse):** End-to-end Data Engineering & MLOps platform forecasting 168-hour urban traffic dynamics using DuckDB, dbt, Apache Airflow, and LightGBM.
-* **Autonomous Maritime Systems (TEKNOFEST Finalist):** Navigation and control algorithms for autonomous solar-powered vessel software.
-
----
-
 ## 💻 Tech & Tool Stack:
 
 **Data Engineering & Storage:**  
